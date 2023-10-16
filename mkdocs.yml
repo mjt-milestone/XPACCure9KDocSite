@@ -111,10 +111,8 @@ nav:
   - Home: index.md
   - Introduction: 
     - Intro/index.md
-  - Engineering decisions:
-    - Plan/index.md
-  - Technical options:
-    - Tech/index.md
+  - System Design:
+    - SD/index.md
   - Pre-requisites:
     - Prereqs/index.md
   - Installation:
@@ -127,7 +125,7 @@ nav:
     - SCFeatures/index.md
   - Mobile:
     - Mobile/index.md
-  - Tray:
-    - Tray/index.md
+  - Technical Considerations:
+    - TC/index.md
   - Troubleshooting:
     - Troubleshooting/index.md 
