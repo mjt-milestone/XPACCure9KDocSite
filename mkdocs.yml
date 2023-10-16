@@ -1,0 +1,132 @@
+site_name: CCure 9000 XProtect Access User Guide
+site_url: https://www.MySite.local
+site_description: "CCure 9000 XProtect Access Documentation Site"
+repo_url: https://github.com/mjt-milestone/XPACCure9KDocSite
+theme:
+  icon:
+    admonition:
+      abstract: fontawesome/solid/robot
+  language: en
+  name: material
+  features:
+    - content.code.copy
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.integrate
+  logo: assets/GlassLogoTrans.png
+  favicon: images/favicon.ico
+  font:
+    text: Noto Sans Symbols
+    code: Prompt
+  palette: 
+      # Palette toggle for light mode
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+extra_css:
+  - stylesheets/colors.css
+  - stylesheets/glass.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+      auto_title: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  
+extra:
+  consent:
+    title: We use cookies
+    description: >- 
+      We use cookies to recognize you and measure the effect our changes have on your actions. With your consent, you're helping us to
+      improve.
+    actions:
+      - accept
+      - reject
+      - manage
+  generator: false
+  social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/MilestoneDevCom
+          name: MilestoneDevCom on Twitter
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/company/milestone-systems/
+          name: Milestone Systems on LinkedIn
+        - icon: fontawesome/brands/github
+          link: https://github.com/milestonesys
+          name: Milestone Systems on GitHub
+        - icon: fontawesome/brands/slack
+          link: https://milestonedevcommunity.slack.com
+          name: Milestone Developer Community on Slack
+copyright: >
+  Copyright &copy; 2023 Milestone Systems Inc. –
+  <a href="#__consent">Change cookie settings</a>
+
+nav:
+  - Home: index.md
+  - Introduction: 
+    - Intro/index.md
+  - Engineering decisions:
+    - Plan/index.md
+  - Technical options:
+    - Tech/index.md
+  - Pre-requisites:
+    - Prereqs/index.md
+  - Installation:
+    - Install/index.md
+  - Management Client Configuration:
+    - MCConfig/index.md
+  - Administative Configuration Options:
+    - AdminConfig/index.md
+  - Smart Client Features:
+    - SCFeatures/index.md
+  - Mobile:
+    - Mobile/index.md
+  - Tray:
+    - Tray/index.md
+  - Troubleshooting:
+    - Troubleshooting/index.md 
