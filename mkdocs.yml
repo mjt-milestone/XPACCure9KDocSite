@@ -113,6 +113,7 @@ nav:
     - Intro/index.md
     - Intro/SolutionOverview.md
     - Intro/WhatsNew.md
+    - Intro/VersionComp.md
   - System Design:
     - SD/index.md
   - Pre-requisites:
