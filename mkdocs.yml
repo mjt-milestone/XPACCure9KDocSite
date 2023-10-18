@@ -111,6 +111,8 @@ nav:
   - Home: index.md
   - Introduction: 
     - Intro/index.md
+    - Intro/SolutionOverview.md
+    - Intro/WhatsNew.md
   - System Design:
     - SD/index.md
   - Pre-requisites:
