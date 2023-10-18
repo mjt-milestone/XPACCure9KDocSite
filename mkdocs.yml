@@ -114,6 +114,9 @@ nav:
     - Intro/SolutionOverview.md
     - Intro/WhatsNew.md
     - Intro/VersionComp.md
+    - Intro/Hardware.md
+    - Intro/Cardholders.md
+    - Intro/Events.md
   - System Design:
     - SD/index.md
   - Pre-requisites:
