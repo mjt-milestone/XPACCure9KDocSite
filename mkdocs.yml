@@ -117,6 +117,8 @@ nav:
     - Intro/Limits.md
   - System Design:
     - SD/index.md
+    - SD/Partitions.md
+    - SD/ConfigParts.md
   - Pre-requisites:
     - Prereqs/index.md
   - Installation:
