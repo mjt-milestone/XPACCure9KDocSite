@@ -119,6 +119,8 @@ nav:
     - SD/index.md
     - SD/Partitions.md
     - SD/ConfigParts.md
+    - SD/UserParts.md
+    - SD/IntSrv.md
   - Pre-requisites:
     - Prereqs/index.md
   - Installation:
