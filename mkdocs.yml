@@ -136,6 +136,7 @@ nav:
     - Encrypt/VWS.md
   - Management Client Configuration:
     - MCConfig/index.md
+    - MCConfig/Props.md
   - Administative Configuration Options:
     - AdminConfig/index.md
   - Smart Client Features:
