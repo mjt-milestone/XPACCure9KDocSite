@@ -126,6 +126,8 @@ nav:
     - Prereqs/CC9KLic.md
   - Installation:
     - Install/index.md
+    - Install/XPAService.md
+    - Install/Distributed.md
   - Management Client Configuration:
     - MCConfig/index.md
   - Administative Configuration Options:

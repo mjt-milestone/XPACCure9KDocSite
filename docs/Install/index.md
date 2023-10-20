@@ -4,6 +4,7 @@
     [XPA CCure Download Site](https://download.milestonesys.com/ccure9kxpa/)</br>
 2. Unzip the installation package.</br>
     + The installation package consists of a single installer in the MSI folder, a folder for documentation, and a folder for prerequisites.</br>
+    </br>
     ![Zip_Folders](img/zipfolders.png)</br>
 3. Open the MSI folder to find the **XProtectAccess.CCure9k.msi** installer program for both the XProtect and CCure 9000 systems.
 
