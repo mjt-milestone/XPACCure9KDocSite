@@ -130,6 +130,10 @@ nav:
     - Install/Distributed.md
     - Install/XPAPlugin.md
     - Install/Upgrades.md
+  - Encrypted Communications:
+    - Encrypt/index.md
+    - Encrypt/EventServer.md
+    - Encrypt/VWS.md
   - Management Client Configuration:
     - MCConfig/index.md
   - Administative Configuration Options:
