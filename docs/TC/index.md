@@ -13,3 +13,15 @@ Bi-directional alarm/event acknowledgment is supported between XProtect and CCur
 
 ??? glass "Close or Acknowledge?"
     Acknowledging an alarm in XProtect will acknowledge the alarm in CCure. Closing an alarm in XProtect will not acknowledge the alarm in CCure 9000. Only acknowledgment of the alarm in XProtect will impact the alarms status in CCure 9000.
+
+## Requirements for alarm acknowledgment
+
+For automatic bi-directional alarm acknowledgment to function, there are specific conditions which must be met:
+
+1. The CCure 9000 event must have triggered the alarm in XProtect.</br>
+    + Check the **Access Control** tab, and the **Events** list, in the Smart Client to view the event.
+    + Verify the **Access Control Event Category** used in the **Alarm Definition** in XProtect Management Client matches the category assigned to the event in the **Access Control Events** list.
+2. The source of the alarm must correspond to the source exposed by the integration. For some CCure 9000 events, a door will be used as the source. For other events, such as user-created events, theCCure 9000 server is exposed as the source. It is required to specify the source in the **Alarm Definition** in XProtect.</br>
+    + The source of each event is listed in the **Access Control** tab’s **Event** list in the Smart Client.
+3. The CCure event must be configured to require acknowledgment and must not be in a state that prevents acknowledgment, such as **Latched**.</br>
+    + Verify individual event details in the **Configuration** menu of the Administration Station application for the CCure 9000 system.

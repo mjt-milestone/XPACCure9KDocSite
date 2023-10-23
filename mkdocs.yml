@@ -155,5 +155,6 @@ nav:
     - Mobile/index.md
   - Technical Considerations:
     - TC/index.md
+    - TC/Tray.md
   - Troubleshooting:
     - Troubleshooting/index.md 
