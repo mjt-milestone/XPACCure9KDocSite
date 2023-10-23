@@ -86,7 +86,7 @@ In the current version of the XProtect Access CCure 9000 integration it's possib
 11. Import the certificate into the store of the local machine. Choose the certificate file that you copied to the local server. Enter the password chosen during the script. Browse to the personal folder of the certificate store to choose that as the location for the certificate. Complete the import wizard.
 12. The final step in this process involves binding the certificate to the IIS server supporting the victor web service. In the **IIS Manager** application on the victor web service host server, open the Bindings... menu of the **Default Web Site**.</br>
     </br>
-    ![vws_iis_bindings](CX.vwsIISbind.png)</br>
+    ![vws_iis_bindings](img/CX.vwsIISbind.png)</br>
 13. Choose to edit the https binding, select the imported certificate from the **SSL certificate** list, click **OK** and close the **Site Bindings** menu.</br>
     </br>
     ![binding_443](img/CX.edit443binding.png)</br>
