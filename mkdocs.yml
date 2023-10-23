@@ -149,6 +149,8 @@ nav:
     - SCFeatures/index.md
     - SCFeatures/Monitor.md
     - SCFeatures/Maps.md
+    - SCFeatures/Overlay.md
+    - SCFeatures/Options.md
   - Mobile:
     - Mobile/index.md
   - Technical Considerations:

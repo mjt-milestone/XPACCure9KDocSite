@@ -22,4 +22,13 @@ It is possible to place doors, readers, inputs, outputs, panels, and CCure serve
 !!! glass "Icon status display"
     The map icons have been redesigned to include more possible status information. If you want to know what all of the possible hardware items and status options are refer to the Map icon hardware and status details topic.
 
-## 
+## Map icon hardware and status details
+
+There are several different types of access control map icons that can be displayed on the standard Smart Client map. Each different type of icon represents a specific type of hardware device. Visual indicators appear on these hardware icons to display the current status of the devices they represent. The different types of hardware and status are listed in the image below.
+
+![Map_icon_ref](img/IconRefAll.png)
+
+There is a lot of functionality built into the map feature of the XProtect Smart Client, if you want to review all of the functionality available please refer to the maps section of the Smart Client user guide.
+
+??? abstract "Controller tamper status"
+    Controllers provide status information to XProtect Access to support display of tamper alarms on those device icons. For supported controllers, a red alarm status ring will appear on the icon when it is being tampered with. When the controller physically returns to a safe state, the alarm status will disappear from the icon.
