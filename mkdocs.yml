@@ -147,6 +147,8 @@ nav:
     - AdminConfig/ClientProfiles.md
   - Smart Client Features:
     - SCFeatures/index.md
+    - SCFeatures/Monitor.md
+    - SCFeatures/Maps.md
   - Mobile:
     - Mobile/index.md
   - Technical Considerations:
