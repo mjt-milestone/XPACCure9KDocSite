@@ -139,6 +139,7 @@ nav:
     - MCConfig/Props.md
   - Administative Configuration Options:
     - AdminConfig/index.md
+    - AdminConfig/PersLog.md
   - Smart Client Features:
     - SCFeatures/index.md
   - Mobile:
