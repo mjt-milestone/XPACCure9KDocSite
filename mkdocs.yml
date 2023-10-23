@@ -142,6 +142,9 @@ nav:
     - AdminConfig/PersLog.md
     - AdminConfig/Door2Cam.md
     - AdminConfig/CatEvents.md
+    - AdminConfig/ARN.md
+    - AdminConfig/SearchCards.md
+    - AdminConfig/ClientProfiles.md
   - Smart Client Features:
     - SCFeatures/index.md
   - Mobile:
