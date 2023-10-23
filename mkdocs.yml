@@ -140,6 +140,8 @@ nav:
   - Administative Configuration Options:
     - AdminConfig/index.md
     - AdminConfig/PersLog.md
+    - AdminConfig/Door2Cam.md
+    - AdminConfig/CatEvents.md
   - Smart Client Features:
     - SCFeatures/index.md
   - Mobile:
