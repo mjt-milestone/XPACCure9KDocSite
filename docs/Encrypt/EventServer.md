@@ -16,4 +16,4 @@ In the current version of the XProtect Access CCure 9000 integration, there is a
 6. Agree to the warning about restarting the XProtect Access service.
 
 ??? warning "What if no certificates appear in the list?"
-    If the **Select Certificates** window has no available certificates there are several reasons for this, please consult the No certificates available in Select Certificate window topic.
+    If the **Select Certificates** window has no available certificates there are several reasons for this, please consult the [No certificates available in Select Certificate window](../Troubleshooting/NoCerts.md) topic.

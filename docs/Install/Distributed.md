@@ -1,7 +1,7 @@
 # CCure9k XProtect Access Service installation on an integration server
 
 !!! glass "Installation topology"
-    The process documented here is for installing the XProtect Access Service on an integration server - according to this topic: CCure 9000: Alternate configuration.
+    The process documented here is for installing the XProtect Access Service on an integration server - according to this topic: [CCure 9000: Alternate configuration](../SD/IntSrv.md).
 
 1. Go to the integration server, locate the required .msi file to start the installation wizard. The required file is named:
     + **XProtectAccess.CCure9k.msi**</br>

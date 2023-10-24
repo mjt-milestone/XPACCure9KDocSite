@@ -13,4 +13,4 @@ The following steps will enable secure communications for this solution.
 4. Configure the XProtect Access instance to use secure communications.
 
 ??? abstract "Learn more..."
-    Please note that the instructions contained in this document are for generating your own certificates. It is also possible to obtain certificates from a trusted third-party certificate provider. For more information about certificates please read the XProtect VMS certificates guide
+    Please note that the instructions contained in this document are for generating your own certificates. It is also possible to obtain certificates from a trusted third-party certificate provider. For more information about certificates please read the [XProtect VMS certificates guide](https://doc.milestonesys.com/latest/en-US/portal/htm/chapter-page-certificates-guide.htm).

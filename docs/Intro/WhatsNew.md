@@ -8,6 +8,6 @@ The most prominent changes to version 1.4 of the CCure 9000XProtect Access integ
 
 ## Features & user experience:
 
-+ Improved compatibility of personalized log-in.
-+ Updated license requirements for new CCure 9000 versions.
++ [Improved compatibility of personalized log-in](../Troubleshooting/PLWorkarounds.md).
++ [Updated license requirements for new CCure 9000 versions](../Prereqs/CC9KLic.md).
 

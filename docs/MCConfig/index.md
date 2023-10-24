@@ -9,7 +9,7 @@ Once the CCure XProtect Access Service and the MIP Plugin are installed and conf
 3. The XProtect Access instance creation wizard begins.
 4. Enter a **Name** for the plug-in and select the CCure 9000 plug-in from the list.</br>
     + The plug-in is named Tyco C-CURE 9000. After selecting the plug-in, you will have to provide credentials and parameters to configure the connection to the CCure 9000 victor web service.
-    + The credentials and parameters required are listed here: XProtect Access instance connection properties:</br>
+    + The credentials and parameters required are listed here: [XProtect Access instance connection properties](Props.md).</br>
     </br>
     ![XPA_wiz14](img/CX.XPAWiz14.png){width=60%}</br>
 5. The wizard will connect to the CCure 9000 system and fetch the configuration into Milestone. This includes servers, controllers, doors, card holders, events, commands, states, etc.</br>

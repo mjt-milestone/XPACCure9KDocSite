@@ -16,7 +16,7 @@ The CCure victor web service must be installed and configured on the CCure 9000 
 
 ## CCure 9000: victor web service SSL configuration
 
-The SSL configuration must be set up for the CCure 9000 plugin to work (a certificate must be provided and configured in IIS for the CCure 9000 victor web service to accept secure HTTPS connections on port 443). See the CCure 9000 XProtect Access integration looking for secure connection with victor web service troubleshooting topic for more details.
+The SSL configuration must be set up for the CCure 9000 plugin to work (a certificate must be provided and configured in IIS for the CCure 9000 victor web service to accept secure HTTPS connections on port 443). See the [CCure 9000 XProtect Access integration looking for secure connection with victor web service](../Troubleshooting/SecCon.md) troubleshooting topic for more details.
 
 ## Milestone XProtect®: license options
 

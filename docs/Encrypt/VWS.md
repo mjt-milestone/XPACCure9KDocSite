@@ -3,7 +3,7 @@
 In the current version of the XProtect Access CCure 9000 integration it's possible to encrypt communications between the CCure XProtect Access Service and the victor web service. To do so, install a root certificate on the server that hosts the CCure XProtect Access Service and configure the victor web service to use the certificate. Below are the steps required to install the root certificate and configure the victor web service.
 
 ??? warning "3rd party certificates"
-    The fully detailed process included here is for self-signed certificates. If you are using a third party certificate, from a commercial certificate provider, please skip ahead to step number ten below. Refer to the XProtect Certificate Guide for any questions on dealing with certificates.
+    The fully detailed process included here is for self-signed certificates. If you are using a third party certificate, from a commercial certificate provider, please skip ahead to step number ten below. Refer to the [XProtect Certificate Guide](https://doc.milestonesys.com/latest/en-US/portal/htm/chapter-page-certificates-guide.htm) for any questions on dealing with certificates.
 
 1. On a server with restricted access, open PowerShell and run the script below, to create a CA certificate.</br>
     ```ps1

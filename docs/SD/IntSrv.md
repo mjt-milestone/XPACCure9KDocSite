@@ -36,4 +36,4 @@ flowchart LR
 Failover clustering is not the only scenario that may require installing the integration components on a separate host machine. No matter the reason - redundancy, isolation of services, separation of maintenance responsibility, etc., this alternate configuration option is fully supported.
 
 ??? warning "Encrypted communications?"
-    All communication and authentication between the CCure 9000 XProtect Access MIP Plugin and the CCure 9000 XProtect Access Service can be fully encrypted and secured in both directions. Please read the first topic and the second topic.
+    All communication and authentication between the CCure 9000 XProtect Access MIP Plugin and the CCure 9000 XProtect Access Service can be fully encrypted and secured in both directions. Please read [Encrypting communication between the XProtect Access service and the XProtect Event Server](../Encrypt/EventServer.md) and [Encrypting communication between the XProtect Access service and the victor web service](../Encrypt/VWS.md).

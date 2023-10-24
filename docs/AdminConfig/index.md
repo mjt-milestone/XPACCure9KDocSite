@@ -8,4 +8,4 @@ Click on your CCure 9000 XProtect Access Instance to view or modify the properti
 
 ![XPA_General_Settings](img/CX.14gensets.png)
 
-A full description of all the properties available is found here: XProtect Access instance connection properties.
+A full description of all the properties available is found here: [XProtect Access instance connection properties](../MCConfig/Props.md).
