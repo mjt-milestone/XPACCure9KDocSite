@@ -164,5 +164,8 @@ nav:
     - Troubleshooting/Instance.md
     - Troubleshooting/SecCon.md
     - Troubleshooting/XPACon.md
-    
+    - Troubleshooting/MultiPart.md
+    - Troubleshooting/NoCerts.md
+    - Troubleshooting/LicenseError.md
+    - Troubleshooting/Other.md
 
