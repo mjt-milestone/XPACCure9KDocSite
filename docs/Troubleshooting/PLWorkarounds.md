@@ -6,12 +6,12 @@ Below is a list of available workarounds required to maintain compatibility in t
 
 ## CCure 9000 Version 2.90 SP6 and personalized login.
 
-+ Change victorwebservice IIS Process Private Memory Limit (KB) to 0.
-+ Change victorwebservice IIS Process Regular Time Interval (minutes) to 60-540.
++ [Change victorwebservice IIS Process Private Memory Limit (KB) to 0](../Troubleshooting/PLWorkarounds.md#configure-iis-process-private-memory-limit).
++ [Change victorwebservice IIS Process Regular Time Interval (minutes) to 60-540](../Troubleshooting/PLWorkarounds.md#configure-iis-process-regular-time-interval).
 
 ## CCure 9000 Version 3.00.1 and personalized login.
 
-+ Change victorwebservice IIS Process Regular Time Interval (minutes) to 60-540.
++ [Change victorwebservice IIS Process Regular Time Interval (minutes) to 60-540](../Troubleshooting/PLWorkarounds.md#configure-iis-process-regular-time-interval).
 
 !!! glass "Personalized login is not required."
     These two versions of CCure 9000 are both compatible with all supported versions of XProtect. There is only an issue with these versions when the personalized login feature is being used. If this feature is not in use, then there is no need to make any extra modifications.

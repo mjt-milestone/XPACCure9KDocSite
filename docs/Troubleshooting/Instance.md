@@ -10,4 +10,4 @@ If XProtect is unable to communicate with the CCure 9000 XProtect Access instanc
 6. Start the XProtect Event Server and wait for it to fully start.
 7. Start the Management Client.
 
-If the instance still does not appear in the Management Client, investigate the logs (see Using the log viewer application) to discover the specific cause.
+If the instance still does not appear in the Management Client, investigate the logs (see [Using the log viewer application](../TC/Tray.md#using-the-log-viewer-application)) to discover the specific cause.

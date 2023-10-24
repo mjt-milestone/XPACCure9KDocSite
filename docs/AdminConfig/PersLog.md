@@ -16,7 +16,7 @@ Enabling/disabling personalized login for a specific access control plug-in is d
 ![Check_box](img/CX.Personalized13.png)
 
 !!! warning "Requirements for personalized login"
-    There are special requirements for personalized login which change slightly based upon the version of CCure 9000. Please read the personalized login workaround topic if you want to use this feature.
+    There are special requirements for personalized login which change slightly based upon the version of CCure 9000. Please read the [personalized login workaround](../Troubleshooting/PLWorkarounds.md) topic if you want to use this feature.
 
 ## Smart Client personalized login
 
