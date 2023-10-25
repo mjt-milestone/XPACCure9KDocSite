@@ -5,7 +5,7 @@ Listed below are all of the compatibility and scalablity limitations built into 
 ## Software version compatibility
 
 ??? warning "CCure 9000 Version 3.0?"
-    Version 3.0 of the CCure 9000 software is not supported by any version of the XProtect Access integration. The current version of the integration (1.4) supports all compatible versions of the CCure 9000 system. Older versions of the integration (1.3 and below) do not support any versions of the CCure 9000 software higher than 2.9 SP5.
+    Version 3.0 of the CCure 9000 software is not supported by any version of the XProtect Access integration. Older versions of the integration (1.3 and below) do not support CCure 9000 version 3.00.1.
 
 Integration with CCure 9000 Access Control system is supported with all XProtect VMS products which can support MIP integrations and with a rules system that supports the XProtect Access suite of functionality.
 

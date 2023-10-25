@@ -4,13 +4,9 @@ Milestone and Software House have committed to maintain compatibility between al
 
 Below is a list of available workarounds required to maintain compatibility in the following combinations of software versions and feature support.
 
-## CCure 9000 Version 2.90 SP6 and personalized login.
+## CCure 9000 Version 2.90 SP6 or 3.00.1 and personalized login.
 
 + [Change victorwebservice IIS Process Private Memory Limit (KB) to 0](../Troubleshooting/PLWorkarounds.md#configure-iis-process-private-memory-limit).
-+ [Change victorwebservice IIS Process Regular Time Interval (minutes) to 60-540](../Troubleshooting/PLWorkarounds.md#configure-iis-process-regular-time-interval).
-
-## CCure 9000 Version 3.00.1 and personalized login.
-
 + [Change victorwebservice IIS Process Regular Time Interval (minutes) to 60-540](../Troubleshooting/PLWorkarounds.md#configure-iis-process-regular-time-interval).
 
 !!! glass "Personalized login is not required."
@@ -33,7 +29,7 @@ On CCure 9000 versions 2.90SP6 and 3.00.1 the IIS process creates a memory leak 
 
 ## Configure IIS Process Private Memory Limit
 
-On CCure 9000 version 2.90SP6 the IIS process creates a memory leak when the personalized login feature is used with XProtect Access. To fix this issue it is recommended to remove the limit of memory the process can utilize. Below is the procedure for making this change:
+On CCure 9000 version 2.90 SP6 and 3.00.1 the IIS process creates a memory leak when the personalized login feature is used with XProtect Access. To fix this issue it is recommended to remove the limit of memory the process can utilize. Below is the procedure for making this change:
 
 1. On the CCure 9000 server, search for and open the **Internet Information Services (IIS) Manager** app.
 2. Expand the host server node in the **Connections** directory and select the **Application Pools** menu.
