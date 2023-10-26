@@ -1,5 +1,7 @@
 # CCure 9000 XProtect Access integration user guide
 
+XProtect Access integration with CCure 9000. View status of access control system, cardholders, controlled doors, readers and other devices in XProtect Smart Client. Control CCure hardware in XProtect. Trigger alarms, pop-ups, video display, recordings and events within XProtect from CCure actions.
+
 [Read on...](Intro/index.md)
 
 ***
