@@ -1,12 +1,11 @@
 # MIP Plugin upgrades
 
 ??? warning "CCure 9000 Upgrades?"
-    Currently the two most updated CCure 9000 versions require different licenses compared to all older versions. These versions are:</br>
+    The most recent compatible CCure 9000 software version requires a different license (web service API license) compared to all previous versions (which required an SDK license). This version is:</br>
     
-    + 2.90 SP6
     + 3.00.1
     
-    Upgrading to either of these versions while running an older version of the integration (1.3 or below), requires first upgrading the integration to the current version (1.4) before upgrading the CCure software.
+    In an existing integrated system, running an older version of the integration (1.3 or below), it is required to first upgrade the integration to the current version (1.4), before upgrading the CCure software. Older versions of the integration are not compatible with the new web service license type.
 
 Always upgrade both the CCure 9000 integration components on the CCure 9000 machine, and the MipPlugin software on the XProtect server. Milestone distributes all component installers with each CCure 9000 XProtect Access integration release. Simply run the installer program on both the CCure 9000 server and the XProtect server; it will upgrade any installed software.
 
