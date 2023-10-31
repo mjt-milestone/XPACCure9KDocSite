@@ -1,12 +1,12 @@
 # CCure 9000: licenses explained
 
 ??? warning "Corporate license?"
-    The CCure 9000 license required to integrate with Milestone XProtect is “Milestone XProtect Corporate” or "Milestone - XProtect Corporate." This doesn't mean that the only XProtect product that integrates with CCure 9000 is XProtect Corporate. XProtect Corporate, XProtect Expert, and XProtect Professional+ VMS products from Milestone are all tested and supported
+    The CCure 9000 license required to integrate with Milestone XProtect is “Milestone XProtect Corporate” or "Milestone - XProtect Corporate - Integration." This doesn't mean that the only XProtect product that integrates with CCure 9000 is XProtect Corporate. XProtect Corporate, XProtect Expert, and XProtect Professional+ VMS products from Milestone are all tested and supported
 
 Licenses required for CCure 9000 are subject to change based on the version of software installed. There are two different types of integration licenses that could be used to enable the CCure XProtect Access integration.
 
 1. [Milestone XProtect Corporate - SDK license](../Prereqs/CC9KLic.md#ccure-9000-sdk-license)
-2. [Milestone - XProtect Corporate - web service API license](../Prereqs/CC9KLic.md#ccure-9000-web-service-api-license)
+2. [Milestone - XProtect Corporate - Integration - web service API license](../Prereqs/CC9KLic.md#ccure-9000-web-service-api-license)
 
 Both of these licenses will work. However, only the current version of the XProtect Access integration (1.4) is compatible with the web service API license. Also, there is only one version of the CCure 9000 software that is both compatible with XProtect Access and requires the web service API license - version 3.00.1. Older versions of the integration are not compatible with any version of CCure that is 3.00.1 or higher.
 
@@ -27,7 +27,7 @@ XProtect Access uses a permanent connection to the CCure 9000 victor web service
 
 In CCure 9000 version 3.00.1 the license requirements change. The only required license is:
 
-+ **Milestone - XProtect Corporate**
++ **Milestone - XProtect Corporate - Integration**
 
 This is a web service API license, therefore it includes the victor web service component. 
 
