@@ -15,9 +15,11 @@ Overlay buttons appear as a layer on top of the live video when you move your mo
 
     >
     >   - Control lights or heating/cooling systems.
-    >   - Enable/disable connected intrusion alarms and other sensors.
+    >   - Arm/disarm connected intrusion alarms and other sensors.
     >
     ***
+
+**Follow this process to add an overlay button to a view:**
 
 1. When the Smart Client is in setup mode, there is an **Overlay Buttons** panel on the left side of the client.
 2. Select the **Access Control** icon.
